@@ -1,0 +1,101 @@
+.login{
+    font-size: 18px;
+    border: gray;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    left: 59%;
+    bottom: 61%;
+
+}
+
+.instagram{
+    position: absolute;
+    top: 20%;
+    left: 56%;
+    width: 16%;
+}
+
+.iphone{
+    position: absolute;
+    top: 13%;
+    left: 26%;
+    width: 15%;
+}
+
+.googledownload{
+    width: 20%;
+}
+
+.appledownload{
+    width: 20%;
+}
+
+.container{
+    position: absolute;
+    top: 75%;
+    left: 54.5%;
+}
+
+.box{
+    width: 374px;
+    height: 467px;
+    border: 1px solid gray;
+    margin: 0;
+    position: absolute;
+    left: 54%;
+    bottom: 39%;
+}
+
+.fb{
+    position:absolute;
+    top: 45%;
+    right: 36%;
+}
+
+.fblogin{
+    width: 25%;
+}
+
+.loginButton{
+    position: absolute;
+    left: 59.5%;
+    bottom: 58%;
+    background-color: blue;
+    opacity: 95%;
+    width: 144px;
+    height: 32px;
+}
+
+.boxtwo{
+    width: 374px;
+    height: 79px;
+    border: 1px solid gray;
+    margin: 0;
+    position: absolute;
+    left: 54%;
+    bottom: 30%;
+}
+
+.getapp{
+    position: absolute;
+    left: 61%;
+    bottom: 25%;
+    font-size: 17px;
+}
+
+.signup{
+    position: absolute;
+    left: 57%;
+    bottom: 31%;
+    font-size: 20px;
+}
+
+.blue{
+    position: absolute;
+    left: 67%;
+    bottom: 31%;
+    font-size: 20px;
+    color: blue;
+}
